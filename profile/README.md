@@ -1,5 +1,5 @@
 ## Willkommen im Universum von MandaiWorld...
-##### ...würden wir gerne sagen.
+### ...würden wir gerne sagen.
 
 Leider steht unser Projekt noch in den Startlöchern.
 Als aktuell 3-köpfiges Adminteam (+sehr beschäftigter Chef) können wir natürlich keine Wunder wirken, wir versuchen es jedoch täglich auf's Neue!
